@@ -1,0 +1,4 @@
+thermostat (p-controller)
+    
+A trivial way to control you heating with your arduino,
+a 1-wire temperature sensor (DS1820) and a network shield.
