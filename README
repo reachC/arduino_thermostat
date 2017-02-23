@@ -1,4 +1,0 @@
-arduino thermostat (p-controller)
-    
-A trivial way to control your heating with your arduino,
-a 1-wire temperature sensor (DS1820), a relays shield and a network shield.
